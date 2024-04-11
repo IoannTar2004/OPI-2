@@ -4,3 +4,4 @@ public interface A {
 
     int ae();
 }
+//
