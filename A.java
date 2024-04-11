@@ -1,7 +1,7 @@
-public interface A {
+public class A extends null {
 
     float ff();
 
     int ae();
-    int r6();
+    int r11();
 }
